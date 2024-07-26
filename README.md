@@ -1,4 +1,4 @@
-# C-Programs Repository
+# C Programs 
 
 ## Overview
 This repository contains a collection of C language programs that I have written during my studies. It covers a wide range of topics from basic syntax and control structures to more advanced concepts such as data structures, algorithms, and file handling.
